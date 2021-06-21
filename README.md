@@ -4,7 +4,7 @@
 #### 2.Create a "Negative Image" of the Original 
 #### 3.Saves the Negative Image to a Directory Mentioned in the code. 
 
-#### One of the First Java Project that I have worked on. 
+## One of the First Java Project that I have worked on. 
 
 ## Future Plans to work on when free :  
 #### 1.Add Main Menu and More Features/Options to Modify the Image(Like Saturation+,Black and White,etc) 
